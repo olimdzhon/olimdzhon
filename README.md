@@ -1,8 +1,62 @@
-## Profile
-Property                 | Data  
--------------------------|------
-Language / IDE           | [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Aolimdzhon&type=Repositories) [![Html+CSS+Typescript Badge](https://img.shields.io/badge/-Typescript-2088FF?style=flat&logo=Typescript&logoColor=white)](https://github.com/search?l=Typescript&q=user%3Aolimdzhon&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Aolimdzhon&type=Repositories) [![VSCode Badge](https://img.shields.io/badge/-VS%20Code-2088FF?style=flat&logo=Code&logoColor=white)](https://github.com/search?l=Code&q=user%3Aolimdzhon&type=Repositories)
-Tool / Framework         | [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/olimdzhon/MangaPrettier) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)](https://github.com/olimdzhon/AxisCult)
-Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aolimdzhon&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aolimdzhon&type=Repositories)
-CI / CD                  | [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/olimdzhon/olimdzhon)
-Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-write2sd34-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:write2sd34@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-olimjon%20sadykov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olimjon-sadykov-3512871ab/)
+<!-- Your title -->
+## Hello, I'm Olimjon Sadykov!
+
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/olimdzhon)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olimjon-sadykov-3512871ab/)
+
+&nbsp;
+
+<!-- Talking about you -->
+**About Me:**
+
+- I’m currently learning __Swift__, __Kotlin__, & __Typescript__.
+- I’m looking to collaborate on anything!
+- Ask me about anything, I am happy to help.
+- Fun-Fact: I was a instrument-making engineering before becoming a software engineer.
+- How to reach me: __write2sd34@gmail.com__
+
+---
+
+**Languages and Tools:**
+
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+</p>
+
+---
+
+<a href="https://github.com/zjayers/github-readme-stats">
+   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=olimdzhon&show_icons=true&hide_border=true" />
+</a>
+
+-----
+Credits: [olimdzhon](https://github.com/olimdzhon)
