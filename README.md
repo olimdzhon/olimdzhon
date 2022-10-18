@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently learning __Swift__, __Kotlin__, & __Typescript__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a instrument-making engineering before becoming a software engineer.
+- Fun-Fact: I was an instrument-making engineer before becoming a software engineer.
 - How to reach me: __write2sd34@gmail.com__
 
 ---
