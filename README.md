@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 **Languages and Tools:**
 
 <p>
-  <div background="white"><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></div>
+  <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
   <img width="15%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg">
   <img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
